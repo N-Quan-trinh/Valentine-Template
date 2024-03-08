@@ -35,7 +35,7 @@ function valentine() {
               <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
                 Hong biết em đã nhận dc surprise chưa nhỉ ?
                 <br></br>
-                Nó tới trễ 1 tí do me chậm tay 1 tí
+                Nó tới trễ 1 tí do me chậm tay 
                 <br></br>
                 but dù sao thì em có bit anh tạo cái này để làm gì hong ?
                 <br></br>
