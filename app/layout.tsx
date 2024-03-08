@@ -6,8 +6,8 @@ import { Analytics } from '@vercel/analytics/react';
 
 
 export const metadata: Metadata = {
-  title: "Valentines Day",
-  description: "Will you be my valentine?",
+  title: "For Béo NC",
+  description: "",
 };
 
 export default function RootLayout({
