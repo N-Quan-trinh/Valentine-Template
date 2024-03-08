@@ -26,20 +26,18 @@ function valentine() {
           <div className=" h-3/4 md:h-1/2 w-full  relative ">
             <div className="absolute inset-0 h-full w-full bg-gradient-to-r from-pink-500 to-orange-400 transform scale-[0.80] bg-red-500 rounded-full blur-3xl" />
             <div className="relative shadow-xl bg-black border border-gray-800  px-4 py-8 h-full overflow-hidden rounded-2xl flex flex-col justify-end items-start">
-              <GiHeartNecklace size={"50"} />
+              
 
               <h1 className="font-bold text-xl text-white mb-4 relative z-50">
-                Will You Be My Valentine?
+                Hellu béo ơi !
               </h1>
 
               <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
-                Meteors blaze, shooting stars they gleam,
+                Hong biết em đã nhận dc surprise chưa nhỉ ?
                 <br></br>
-                In your eyes, I find my dream.
+                Nó tới trễ 1 tí do me chậm tay 1 tí
                 <br></br>
-                With every twinkle, my heart it beams,
-                <br></br>
-                Will you be my valentine, in love&apos;s cosmic stream?
+                but dù sao thì em có bit anh tạo cái này để làm gì hong ?
                 <br></br>
               </p>
               <div className="flex gap-3 justify-between items-center">
@@ -52,7 +50,7 @@ function valentine() {
                     startContent={<HeartFilledIcon className="text-danger" />}
                     variant="flat"
                   >
-                    Yes I will
+                    có!
                   </Button>
                 </div>
                 <div>
@@ -65,7 +63,7 @@ function valentine() {
                     }
                     variant="flat"
                   >
-                    No I won&apos;t
+                    anh là ai tránh xa tôi ra !
                   </Button>
                 </div>
               </div>
