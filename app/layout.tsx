@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { noto_serif } from "../lib/fonts";
 import "./globals.css";
+import ico from './favicon.ico'
 import { Analytics } from '@vercel/analytics/react';
 
 
@@ -17,6 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={noto_serif.className} >
+      <head><link rel="icon" href="favicon.ico" type="image/x-icon" /></head>
       <body className={noto_serif.className}>{children}</body>
       <Analytics />
     </html>
